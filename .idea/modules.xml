@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryExample/AbstractFactoryExample.iml" filepath="$PROJECT_DIR$/AbstractFactoryExample/AbstractFactoryExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterExample/AdapterExample.iml" filepath="$PROJECT_DIR$/AdapterExample/AdapterExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BridgeExample/BridgeExample.iml" filepath="$PROJECT_DIR$/BridgeExample/BridgeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderExample/BuilderExample.iml" filepath="$PROJECT_DIR$/BuilderExample/BuilderExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChaingOfResponsibilityExample/ChaingOfResponsibilityExample.iml" filepath="$PROJECT_DIR$/ChaingOfResponsibilityExample/ChaingOfResponsibilityExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositeExample/CompositeExample.iml" filepath="$PROJECT_DIR$/CompositeExample/CompositeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorExample/DecoratorExample.iml" filepath="$PROJECT_DIR$/DecoratorExample/DecoratorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadeExample/FacadeExample.iml" filepath="$PROJECT_DIR$/FacadeExample/FacadeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryExample/FactoryExample.iml" filepath="$PROJECT_DIR$/FactoryExample/FactoryExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyweightExample/FlyweightExample.iml" filepath="$PROJECT_DIR$/FlyweightExample/FlyweightExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratorExample/IteratorExample.iml" filepath="$PROJECT_DIR$/IteratorExample/IteratorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediatorExample/MediatorExample.iml" filepath="$PROJECT_DIR$/MediatorExample/MediatorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MomentoExample/MomentoExample.iml" filepath="$PROJECT_DIR$/MomentoExample/MomentoExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverExample/ObserverExample.iml" filepath="$PROJECT_DIR$/ObserverExample/ObserverExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeExample/PrototypeExample.iml" filepath="$PROJECT_DIR$/PrototypeExample/PrototypeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyExample/ProxyExample.iml" filepath="$PROJECT_DIR$/ProxyExample/ProxyExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonExample/SingletonExample.iml" filepath="$PROJECT_DIR$/SingletonExample/SingletonExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StateExample/StateExample.iml" filepath="$PROJECT_DIR$/StateExample/StateExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StratagyPattern/StratagyPattern.iml" filepath="$PROJECT_DIR$/StratagyPattern/StratagyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPWeek5.iml" filepath="$PROJECT_DIR$/TPWeek5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateExample/TemplateExample.iml" filepath="$PROJECT_DIR$/TemplateExample/TemplateExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisitorPattern/VisitorPattern.iml" filepath="$PROJECT_DIR$/VisitorPattern/VisitorPattern.iml" />
+    </modules>
+  </component>
+</project>
